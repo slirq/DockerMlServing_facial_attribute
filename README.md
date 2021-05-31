@@ -1,6 +1,6 @@
 # DockerMlServing_facial_attribute
 
-# to build the DOcker image file
+# to build the Docker image file
 
 # step 1:compress the facialAtrr folder to facialAtrr.rar 
 
